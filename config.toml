@@ -1,0 +1,26 @@
+baseurl = "https://smalalur-gh.github.io/"
+#baseurl = "localhost:1313"
+languageCode = "en-us"
+title = "IBTIAM"
+metaDataFormat = "yaml"
+newContentEditor = "vim"
+theme = "manifest"
+SectionPagesMenu = "main"
+
+[taxonomies]
+  tag = "tags"
+#  category = "categories"
+
+[params]
+  author = "smalalur-gh"
+  title = "i breathe"
+  subtitle = "...therefore i am"
+  name = "Sanjeev Malalur"
+  email = "sanjeev.malalur@gmail.com"
+  UseHighlightJS = true
+
+  # Date format (refer to Go's date format: http://flippinggodateformat.com )
+  #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
+  date_format = "Mon, Jan 2, 2006"
+
+
