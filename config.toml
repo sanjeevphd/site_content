@@ -1,5 +1,5 @@
-baseurl = "https://smalalur-gh.github.io/"
-#baseurl = "localhost:1313"
+#baseurl = "https://smalalur-gh.github.io/"
+baseurl = "localhost:1313"
 languageCode = "en-us"
 title = "IBTIAM"
 metaDataFormat = "yaml"
@@ -22,5 +22,3 @@ SectionPagesMenu = "main"
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Mon, Jan 2, 2006"
-
-

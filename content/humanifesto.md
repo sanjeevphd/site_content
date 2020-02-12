@@ -7,6 +7,7 @@ title: (hu)manifesto
 <div data-fitter-happier-text class="">Truth has no versions</div>
 <div data-fitter-happier-text class="">Be Compassionate</div>
 <div data-fitter-happier-text class="">Every Being has Infinite Worth</div>
+<div data-fitter-happier-text class="">Focus</div>
 <div data-fitter-happier-text class="">Attention is Precious</div>
 <div data-fitter-happier-text class="">Respect Time</div>
 <div data-fitter-happier-text class="">Know Yourself</div>

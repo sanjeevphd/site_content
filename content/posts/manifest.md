@@ -1,11 +1,8 @@
-+++
-date = "2019-11-26T16:00:00"
-draft = false
-title = "About"
-menu = "main"
-section_id = 0
-weight = 4
-+++
+---
+date: "2019-11-26T16:00:00"
+draft: false
+title: "Introducing Theme Manifest for Hugo"
+---
 
 # What?
 
