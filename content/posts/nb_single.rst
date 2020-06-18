@@ -1,10 +1,7 @@
 ---
 title: "The Naive Bayes Classifier"
+summary: "...not so naive after all"
 ---
-
--------------------------
-...not so naive after all
--------------------------
 
 .. contents::
    :depth: 3

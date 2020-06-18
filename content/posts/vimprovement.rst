@@ -1,6 +1,6 @@
 ---
-date: 2018-03-07T20:58:59-06:00
 title: vimprovement
+summary: "Vim from the ground up"
 ---
 
 In the beginning...

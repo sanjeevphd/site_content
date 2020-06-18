@@ -1,7 +1,6 @@
 ---
-date: "2019-11-26T16:00:00"
-draft: false
-title: "Introducing Theme Manifest for Hugo"
+title: "Introducing the Manifest Theme for Hugo"
+summary: "A clean, responsive theme for Hugo using Tachyons CSS"
 ---
 
 # What?

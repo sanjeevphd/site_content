@@ -22,3 +22,16 @@ SectionPagesMenu = "main"
   # Date format (refer to Go's date format: http://flippinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Mon, Jan 2, 2006"
+
+[menu]
+  [[menu.main]]
+    identifier = "resume"
+    name = "resume"
+    url = "/resume.pdf/"
+    weight = 4
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Writings"
+    url = "/posts/"
+    weight = 3

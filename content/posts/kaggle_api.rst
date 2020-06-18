@@ -1,12 +1,13 @@
 ---
 title: "Guide to Kaggle API"
-date: 2019-10-31T16:45:26-05:00
+summary: "A quick guide to install and use the official Kaggle API, mostly for personal reference"
 ---
 
-A quick guide to install and use the `official Kaggle API <https://github.com/Kaggle/kaggle-api>`_, mostly for personal reference.
 
 Installation
 ============
+
+Get the `official Kaggle API <https://github.com/Kaggle/kaggle-api>`_.
 
 .. note::
    Kaggle API does not work with Python 2. Only Python 3 is supported.

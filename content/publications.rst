@@ -1,6 +1,7 @@
 ---
 title: Publications
 menu: main
+weight: 2
 ---
 
 Optimal Input Gains for Feed-forward Neural Networks
