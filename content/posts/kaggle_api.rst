@@ -1,8 +1,10 @@
 ---
 title: "Guide to Kaggle API"
-summary: "A quick guide to install and use the official Kaggle API, mostly for personal reference"
+weight: 3
+tags: ["Kaggle", "CLI"]
 ---
 
+A quick guide to install and use the official Kaggle API, mostly for personal reference.
 
 Installation
 ============

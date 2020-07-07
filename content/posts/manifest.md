@@ -1,6 +1,7 @@
 ---
 title: "Introducing the Manifest Theme for Hugo"
-summary: "A clean, responsive theme for Hugo using Tachyons CSS"
+weight: 1
+tags: ["Hugo", "Theme", "Tachyons CSS"]
 ---
 
 # What?

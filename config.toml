@@ -13,8 +13,8 @@ SectionPagesMenu = "main"
 
 [params]
   author = "smalalur-gh"
-  title = "i breathe"
-  subtitle = "...therefore i am"
+  title = "Sanjeev Malalur, PhD"
+  subtitle = ""
   name = "Sanjeev Malalur"
   email = "sanjeev.malalur@gmail.com"
   UseHighlightJS = true

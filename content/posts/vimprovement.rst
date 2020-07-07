@@ -1,6 +1,7 @@
 ---
-title: vimprovement
-summary: "Vim from the ground up"
+title: Vimprovement
+weight: 2
+tags: ["Vim"]
 ---
 
 In the beginning...

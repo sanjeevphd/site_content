@@ -1,7 +1,12 @@
 ---
 title: "The Naive Bayes Classifier"
-summary: "...not so naive after all"
+weight: 4
+tags: ["Probability", "Naive Bayes", "Machine Learning" ]
 ---
+
+-------------------------
+...not so naive after all
+-------------------------
 
 .. contents::
    :depth: 3
