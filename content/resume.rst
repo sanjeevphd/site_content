@@ -7,10 +7,7 @@ weight: 4
 Summary
 ~~~~~~~
 
-Over 10 years of experience in the oil and gas industry leading the
-development of machine learning powered data products, collaborating
-with domain experts to translate business requirements into data driven
-solutions, and supporting clients worldwide to ensure their success.
+Over 10 years of experience collaborating with domain experts to translate business requirements into data driven solutions, leading the development of machine learning powered data products, and supporting clients worldwide to ensure their success. Experienced in startup and small business culture with an agile mindset for problem understanding, learning, rapid prototyping and delivering results.
 
 Skills
 ~~~~~~

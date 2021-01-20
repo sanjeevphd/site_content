@@ -13,4 +13,6 @@ title: "Home"
 ..
   Sanjeev Malalur, PhD
 
-I am a Research Engineer by profession and enjoy working with data and machine learning, primarily using Python and it's vast and ever growing collection of libraries and frameworks. This site is a collection of posts - mostly for self-reflection, learning and recall, and a few pages about me. I also practice meditation, workout often, play drums, read for enjoyment and trying to teach myself how to juggle.
+I am a Research Engineer by profession and enjoy working with data and machine learning, primarily using Python and it's vast and ever growing collection of libraries and frameworks. I also practice meditation, workout often, play the drums, read for enjoyment and juggle. I intend to use this site as a collection of posts - primarily for learning and self-reflection. 
+
+More content coming soon. 
