@@ -1,7 +1,7 @@
-#baseurl = "https://smalalur-gh.github.io/"
+#baseurl = "https://sanjeev.github.io/"
 baseurl = "localhost:1313"
 languageCode = "en-us"
-title = "IBTIAM"
+title = "SM"
 metaDataFormat = "yaml"
 newContentEditor = "vim"
 theme = "manifest"
@@ -24,14 +24,14 @@ SectionPagesMenu = "main"
   date_format = "Mon, Jan 2, 2006"
 
 [menu]
-  [[menu.main]]
-    identifier = "resume"
-    name = "resume"
-    url = "/resume.pdf/"
-    weight = 4
+  # [[menu.main]]
+    # identifier = "resume"
+    # name = "resume"
+    # url = "/resume.pdf"
+    # weight = 4
 
-  [[menu.main]]
-    identifier = "posts"
-    name = "Writings"
-    url = "/posts/"
-    weight = 3
+  #[[menu.main]]
+    #identifier = "posts"
+    #name = "Writings"
+    #url = "/posts/"
+    #weight = 3

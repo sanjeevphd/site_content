@@ -9,7 +9,7 @@ A growing list of things I value...
 
 .. raw:: html
 
-   <div class="ttu fw4">
+   <div class="ttu fw5">
    <div data-fitter-happier-text class="">Be Honest</div>
    <div data-fitter-happier-text class="">Truth has no versions</div>
    <div data-fitter-happier-text class="">Be Compassionate</div>
