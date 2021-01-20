@@ -1,5 +1,5 @@
-#baseurl = "https://sanjeev.github.io/"
-baseurl = "localhost:1313"
+baseurl = "https://sanjeevphd.github.io/"
+#baseurl = "localhost:1313"
 languageCode = "en-us"
 title = "SM"
 metaDataFormat = "yaml"
