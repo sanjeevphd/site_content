@@ -4,6 +4,12 @@ menu: "main"
 weight: 4
 ---
 
+.. raw:: html
+
+   <p class="tr">
+   <a href="../malalur_resume.pdf" class="link hover-near-black underline-hover light-silver">PDF</a>
+   </p>
+
 Summary
 ~~~~~~~
 
