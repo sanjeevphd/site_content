@@ -1,4 +1,4 @@
-baseurl = "https://sanjeev.github.io"
+baseurl = "https://sanjeevphd.github.io"
 #baseurl = "localhost:1313"
 languageCode = "en-us"
 title = "SM"
@@ -23,7 +23,7 @@ SectionPagesMenu = "main"
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Mon, Jan 2, 2006"
 
-[menu]
+# [menu]
   # [[menu.main]]
     # identifier = "resume"
     # name = "resume"
